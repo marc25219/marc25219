@@ -1,4 +1,26 @@
-### Hi there 👋
+<img src= "https://user-images.githubusercontent.com/64732151/230860571-2f06768a-7bf5-4bb5-98d0-6a9bda9d2a89.png"  />
+
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+
+My name is Marc Ciruelos Santos and I'm a Computer Engineering student at the Open University of Catalonia (UOC). 
+
+⚙ Currently, I work as a QA Lead and Test Automation Engineer in Barcelona.
+
+💻 When I'm not busy with work or school, you can find me exploring the exciting world of Java and MySQL on the backend.
+
+📕 Finally, my skills include designing and executing automated tests, analyzing test results, and leading a team. 
+
+📑 Check out my repositories for some of my latest projects. Feel free to reach out to me if you'd like to learn more about me or my experiences!
+
+---
+
+### Contact: 
+
+Linkedin --> https://www.linkedin.com/in/mciruelos
+
+Email --> marc25219@gmail.com
+
 
 <!--
 **marc25219/marc25219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
