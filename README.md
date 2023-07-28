@@ -5,11 +5,9 @@
 
 My name is Marc Ciruelos Santos and I'm a Computer Engineering student at the Open University of Catalonia (UOC). 
 
-⚙ Currently, I work as a QA Lead and Test Automation Engineer in Barcelona.
+⚙ Currently, I'm working as a Senior QA Automation Engineer remotly. 
 
-💻 When I'm not busy with work or school, you can find me exploring the exciting world of Java and MySQL on the backend.
-
-📕 My skills include designing and executing automated tests, analyzing test results, and leading a team. 
+💻 When I'm not busy with work or school, you can find me exploring the exciting world of Java, Typescript, Bash, MySQL and Cypress.
 
 📑 Check out my repositories for some of my latest projects. Feel free to reach out to me if you'd like to learn more about me or my experiences!
 
@@ -32,19 +30,3 @@ My name is Marc Ciruelos Santos and I'm a Computer Engineering student at the Op
   </a>
   
 </p>
-
-
-<!--
-**marc25219/marc25219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
